@@ -5,6 +5,8 @@
 	height:200px;
 	width:200px;
 	grid-template-columns:repeat(2, 1fr);
+	grid-template-rows:100px 100px;
+	grid-template-columns:100px 100px;
 	grid-column-gap:5px;
 	grid-row-gap:5px;
 }
